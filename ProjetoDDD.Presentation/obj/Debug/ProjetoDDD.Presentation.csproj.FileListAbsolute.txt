@@ -1,0 +1,281 @@
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\obj\Debug\ProjetoDDD.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\ApplicationInsights.config
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\roslyn\csc.exe
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\roslyn\vbc.exe
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\ProjetoDDD.Presentation.dll.config
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\ProjetoDDD.Presentation.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\ProjetoDDD.Presentation.pdb
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\EntityFramework.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AI.Web.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Ninject.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Ninject.Web.Common.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Ninject.Web.Mvc.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Owin.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\projetoDDD.Application.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\ProjetoDDD.Domain.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.Helpers.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.Mvc.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.Optimization.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.Razor.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.WebPages.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\WebActivator.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\WebGrease.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\projetoDDD.Application.pdb
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\ProjetoDDD.Domain.pdb
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AI.Web.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Ninject.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Ninject.Web.Common.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Ninject.Web.Mvc.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.Helpers.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.Mvc.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.Optimization.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.Razor.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.WebPages.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\EntityFramework.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\obj\Debug\ProjetoDDD.Presentation.dll
+C:\Users\phederal\Documents\projetoDDD\ProjetoDDD.Presentation\obj\Debug\ProjetoDDD.Presentation.pdb
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\obj\Debug\ProjetoDDD.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\obj\Debug\ProjetoDDD.Presentation.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\obj\Debug\ProjetoDDD.Presentation.pdb
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ApplicationInsights.config
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\csc.exe
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\vbc.exe
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Presentation.dll.config
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Presentation.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Presentation.pdb
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.Web.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Ninject.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Ninject.Web.Common.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Ninject.Web.Mvc.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Owin.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\projetoDDD.Application.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Domain.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Helpers.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Mvc.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Optimization.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Razor.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.WebPages.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\WebActivator.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\WebGrease.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\projetoDDD.Application.pdb
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Domain.pdb
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.Web.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Ninject.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Ninject.Web.Common.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Ninject.Web.Mvc.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Helpers.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Mvc.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Optimization.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Razor.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.WebPages.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Infra.Data.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\EntityFramework.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Infra.Data.pdb
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\EntityFramework.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ApplicationInsights.config
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\csc.exe
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\vbc.exe
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\VBCSCompiler.exe
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Presentation.dll.config
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Presentation.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Presentation.pdb
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\EntityFramework.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\EntityFramework.SqlServer.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.Web.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Ninject.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Ninject.Web.Common.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Ninject.Web.Mvc.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Owin.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\projetoDDD.Application.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Domain.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Infra.Data.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Helpers.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Mvc.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Optimization.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Razor.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.WebPages.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\WebActivator.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\WebGrease.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\projetoDDD.Application.pdb
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Domain.pdb
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\ProjetoDDD.Infra.Data.pdb
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\EntityFramework.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\EntityFramework.SqlServer.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.Web.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.ApplicationInsights.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Ninject.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Ninject.Web.Common.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Ninject.Web.Mvc.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Helpers.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Mvc.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Optimization.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.Razor.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.WebPages.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\obj\Debug\ProjetoDDD.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\obj\Debug\ProjetoDDD.Presentation.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Presentation\obj\Debug\ProjetoDDD.Presentation.pdb

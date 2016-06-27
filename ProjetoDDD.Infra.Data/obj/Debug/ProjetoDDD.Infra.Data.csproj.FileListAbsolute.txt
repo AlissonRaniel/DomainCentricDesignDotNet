@@ -1,0 +1,24 @@
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll.config
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.dll
+C:\Users\phederal\Documents\aulaarquitetura\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.pdb
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll.config
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.pdb
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\alisson&bruna\Documents\Visual Studio 2015\Projects\DomainCentricDesignDotNet\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.pdb
